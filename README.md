@@ -38,7 +38,7 @@ Email	  admin@example.com
 
 ## 🚀 Демо
 
-[Посмотреть демо](https://semeeensemeeenov23.github.io/crm-dashboard/login/)
+[Посмотреть демо](https://semeeensemeeenov23.github.io/crm-dashboard/login/){:target="_blank"}
 
 
 ## 📸 Скриншоты
