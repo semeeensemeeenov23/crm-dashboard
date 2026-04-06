@@ -30,7 +30,7 @@ function App() {
   const isOnline = useOnlineStatus();
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/crm-dashboard"> 
       {!isOnline && (
         <div className="fixed top-0 left-0 right-0 bg-yellow-500 text-white text-center py-1 text-sm z-50">
           <WifiOff size={14} className="inline mr-1" /> 
