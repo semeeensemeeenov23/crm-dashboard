@@ -36,6 +36,10 @@
 Email	  admin@example.com
 Пароль	123456
 
+## 🚀 Демо
+
+[Посмотреть демо](https://semeeensemeeenov23.github.io/crm-dashboard/login/)
+
 
 ## 📸 Скриншоты
 

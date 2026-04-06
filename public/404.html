@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>CRM Dashboard</title>
+  <script>
+    // Получаем текущий путь, например: /crm-dashboard/login
+    var path = window.location.pathname;
+    var repoName = 'crm-dashboard';
+
+    // Находим часть пути после имени репозитория
+    var newPath = path.replace('/' + repoName, '');
+    // Формируем правильный URL для перенаправления
+    var newUrl = window.location.origin + '/' + repoName + '/#' + newPath;
+    
+    // Перенаправляем браузер
+    window.location.replace(newUrl);
+  </script>
+</head>
+<body>
+  <h1>Загрузка...</h1>
+</body>
+</html>
