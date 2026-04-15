@@ -53,6 +53,7 @@ Email	  admin@example.com
 GitHub: @semeeensemeeenov23
 
 
+<!-- update 2026-04-15 -->
 
 ## 🏃‍♂️ Запуск проекта
 
